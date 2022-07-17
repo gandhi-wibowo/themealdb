@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Radius-->
+    <dimen name="rad_4">4dp</dimen>
+    <dimen name="rad_5">5dp</dimen>
+    <dimen name="rad_10">10dp</dimen>
+    <dimen name="rad_12">12dp</dimen>
+    <dimen name="rad_15">15dp</dimen>
+    <dimen name="rad_20">20dp</dimen>
+    <dimen name="rad_26">26dp</dimen>
+</resources>
